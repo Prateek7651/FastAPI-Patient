@@ -1,0 +1,72 @@
+{
+    "P001": {
+        "name": "Ananya Sharma",
+        "city": "Guwahati",
+        "age": 26,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 90.1,
+        "bmi": 33.66,
+        "verdict": "Obese"
+    },
+    "P002": {
+        "name": "Ravi Mehta",
+        "city": "Agra",
+        "age": 35,
+        "gender": "male",
+        "height": 1.7,
+        "weight": 70.0,
+        "bmi": 24.22,
+        "verdict": "Normal"
+    },
+    "P003": {
+        "name": "Sneha Kulkarni",
+        "city": "Pune",
+        "age": 28,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 45.4,
+        "bmi": 17.75,
+        "verdict": "Underweight"
+    },
+    "P005": {
+        "name": "Neha Sinha",
+        "city": "Kolkata",
+        "age": 30,
+        "gender": "female",
+        "height": 1.55,
+        "weight": 75,
+        "bmi": 31.22,
+        "verdict": "Obese"
+    },
+    "P009": {
+        "name": "string",
+        "city": "string",
+        "age": 0,
+        "gender": "male",
+        "height": 1.0,
+        "weight": 1.0,
+        "bmi": 1.0,
+        "verdict": "Underweight"
+    },
+    "P006": {
+        "name": "Rahul",
+        "city": "Goa",
+        "age": 18,
+        "gender": "male",
+        "height": 176.0,
+        "weight": 68.0,
+        "bmi": 0.0,
+        "verdict": "Underweight"
+    },
+    "P007": {
+        "name": "Rahul",
+        "city": "Goa",
+        "age": 18,
+        "gender": "male",
+        "height": 1.76,
+        "weight": 68.0,
+        "bmi": 21.95,
+        "verdict": "Norml"
+    }
+}
